@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# OS + IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.vercel/
